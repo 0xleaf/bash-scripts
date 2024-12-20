@@ -1,3 +1,3 @@
-# bash-practice
+# bash-scripts
 
-Repo to practice Bash Scripting.
+My personal collection of Bash scripts.
